@@ -1,0 +1,7 @@
+{
+  "extends": ["oclif", "oclif-typescript", "prettier"],
+  "rules": {
+    "no-console": "warn",
+    "unicorn/no-abusive-eslint-disable": "off"
+  }
+}
